@@ -1,0 +1,256 @@
+name,ARname,ingredients,ARingredients,diet,ARdiet,prep_time,cook_time,flavor_profile,course,ARflavor_profile,ARcourse,state,region
+Balu shahi,بالو شاهي,"Maida flour, yogurt, oil, sugar","دقيق مائدة، زبادي، زيت، سكر",vegetarian,نباتي,45,25,sweet,dessert,حلو,تحلية,West Bengal,East
+Boondi,بوندي,"Gram flour, ghee, sugar","جرام دقيق، سمن، سكر",vegetarian,نباتي,80,30,sweet,dessert,حلو,تحلية,Rajasthan,West
+Gajar ka halwa,جاجار كا حلوة,"Carrots, milk, sugar, ghee, cashews, raisins","جزر، حليب، سكر، سمن، كاجو، زبيب",vegetarian,نباتي,15,60,sweet,dessert,حلو,تحلية,Punjab,North
+Ghevar,غيفار,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom","طحين، سمن، كيورا، حليب، زبدة، سكر، لوز، فستق، زعفران، هيل أخضر",vegetarian,نباتي,15,30,sweet,dessert,حلو,تحلية,Rajasthan,West
+Gulab beef,جلاب بقر,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water","حليب بودرة ، دقيق عادي ، بيكنج باودر ، سمن ، حليب ، سكر ، ماء ، ماء ورد",vegetarian,نباتي,15,40,sweet,dessert,حلو,تحلية,West Bengal,East
+Imarti,إيمارتي,"Sugar syrup, lentil flour","شراب السكر، دقيق العدس",vegetarian,نباتي,10,50,sweet,dessert,حلو,تحلية,West Bengal,East
+Jalebi,جاليبي,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom","مايدة ، دقيق الذرة ، صودا الخبز ، خل ، خثارة ، ماء ، كركم ، زعفران ، هيل",vegetarian,نباتي,10,50,sweet,dessert,حلو,تحلية,Uttar Pradesh,North
+Kaju katli,كاجو كاتلي,"Cashews, ghee, cardamom, sugar","كاجو، سمن، هيل، سكر",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,-1,-1
+Kalakand,كالكاند,"Milk, cottage cheese, sugar","الحليب، الجبن، السكر",vegetarian,نباتي,20,30,sweet,dessert,حلو,تحلية,West Bengal,East
+Kheer,خير,"Milk, rice, sugar, dried fruits",الحليب والأرز والسكر والفواكه المجففة,vegetarian,نباتي,10,40,sweet,dessert,حلو,تحلية,-1,-1
+Laddu,لادو,"Gram flour, ghee, sugar","جرام دقيق، سمن، سكر",vegetarian,نباتي,10,40,sweet,dessert,حلو,تحلية,-1,-1
+Lassi,لاسي,"Yogurt, milk, nuts, sugar","زبادي، حليب، مكسرات، سكر",vegetarian,نباتي,5,5,sweet,dessert,حلو,تحلية,Punjab,North
+Nankhatai,نانخاتاي,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom","دقيق مكرر، بيسان، سمن، سكر بودرة، زبادي، هيل أخضر",vegetarian,نباتي,20,30,sweet,dessert,حلو,تحلية,-1,-1
+Petha,بيتا,"Firm white pumpkin, sugar, kitchen lime, alum powder","يقطين أبيض متماسك، سكر، ليمون مطبخ، مسحوق الشبة",vegetarian,نباتي,10,30,sweet,dessert,حلو,تحلية,Uttar Pradesh,North
+Phirni,فيرني,"Rice, sugar, nuts",الأرز والسكر والمكسرات,vegetarian,نباتي,30,20,sweet,dessert,حلو,تحلية,Odisha,East
+Rabri,رابري,"Condensed milk, sugar, spices, nuts","حليب مكثف، سكر، بهارات، مكسرات",vegetarian,نباتي,10,45,sweet,dessert,حلو,تحلية,Uttar Pradesh,North
+Sheera,شيرا,"Semolina, ghee, nuts, milk","سميد، سمن، مكسرات، حليب",vegetarian,نباتي,10,25,sweet,dessert,حلو,تحلية,Maharashtra,West
+Singori,سينجوري,"Khoa, coconut, molu leaf","خوا، جوز الهند، ورق المولو",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Uttarakhand,North
+Sohan halwa,سوهان حلوة,"Corn flour, ghee, dry fruits","دقيق الذرة، السمن، الفواكه الجافة",vegetarian,نباتي,10,60,sweet,dessert,حلو,تحلية,Uttar Pradesh,North
+Sohan papdi,سوهان بابدي,"Gram flour, ghee, sugar, milk, cardamom","جرام دقيق، سمن، سكر، حليب، هيل",vegetarian,نباتي,-1,60,sweet,dessert,حلو,تحلية,Maharashtra,West
+Chhena jalebi,تشينا جاليبي,"Chhena, sugar, ghee","شينا، سكر، سمن",vegetarian,نباتي,10,50,sweet,dessert,حلو,تحلية,Odisha,East
+Chhena kheeri,شينا خيري,"Chhena, sugar, milk","تشينا، سكر، حليب",vegetarian,نباتي,-1,60,sweet,dessert,حلو,تحلية,Odisha,East
+Chhena poda,تشينا بودا,"Sugar, chenna cheese","سكر، جبنة شينا",vegetarian,نباتي,10,45,sweet,dessert,حلو,تحلية,Odisha,East
+Cham cham,شام شام,"Flour, cream, sugar, saffron, lemon juice, coconut flakes","دقيق، كريمة، سكر، زعفران، عصير ليمون، رقائق جوز الهند",vegetarian,نباتي,40,60,sweet,dessert,حلو,تحلية,West Bengal,East
+Kheer sagar,خير ساجار,"Chenna, condensed milk, sugar, saffron, cardamom","الشنا، الحليب المكثف، السكر، الزعفران، الهيل",vegetarian,نباتي,25,60,sweet,dessert,حلو,تحلية,Odisha,East
+Ledikeni,ليديكيني,"Chhena, sugar, ghee","شينا، سكر، سمن",vegetarian,نباتي,45,45,sweet,dessert,حلو,تحلية,West Bengal,East
+Lyangcha,ليانجشا,"Flour, fried milk power, sugar syrup","دقيق، حليب مقلي، شراب السكر",vegetarian,نباتي,20,30,sweet,dessert,حلو,تحلية,Assam,North East
+Malapua,مالابوا,"Yoghurt, refined flour, ghee, fennel seeds","الزبادي، الدقيق المكرر، السمن، بذور الشمر",vegetarian,نباتي,10,120,sweet,dessert,حلو,تحلية,Bihar,North
+Mihidana,ميهيدانا,"Besan flour, sugar, ghee","دقيق بيسان، سكر، سمن",vegetarian,نباتي,15,30,sweet,dessert,حلو,تحلية,West Bengal,East
+Misti doi,ميستي دوي,"Milk, jaggery","حليب، جرجير",vegetarian,نباتي,480,30,sweet,dessert,حلو,تحلية,West Bengal,East
+Pantua,بانتوا,"Chhena, sugar, ghee, flour","شينا، سكر، سمن، طحين",vegetarian,نباتي,45,45,sweet,dessert,حلو,تحلية,West Bengal,East
+Pithe,بيث,"Rice flour, wheat flour","دقيق الأرز، دقيق القمح",vegetarian,نباتي,15,35,sweet,dessert,حلو,تحلية,Assam,North East
+Rasabali,راسابالي,"Chenna, sweetened milk","الشنا، الحليب المحلى",vegetarian,نباتي,15,30,sweet,dessert,حلو,تحلية,Odisha,East
+Ras malai,راسمالاي,"Chhena, reduced milk, pistachio","شينا، حليب مخفف، فستق",vegetarian,نباتي,180,60,sweet,dessert,حلو,تحلية,West Bengal,East
+Rasgulla,راسغولا,"Chhena, sugar, cardamom","شينا، سكر، هيل",vegetarian,نباتي,10,90,sweet,dessert,حلو,تحلية,West Bengal,East
+Sandesh,سانديش,"Milk, sugar, saffron, cardamom","حليب، سكر، زعفران، هيل",vegetarian,نباتي,30,20,sweet,dessert,حلو,تحلية,West Bengal,East
+Adhirasam,أديراسام,"Rice flour, jaggery, ghee, vegetable oil, elachi","دقيق الأرز، الجاجري، السمن، الزيت النباتي، إيلاشي",vegetarian,نباتي,10,50,sweet,dessert,حلو,تحلية,West Bengal,East
+Ariselu,أريسيلو,"Rice flour, jaggery, ghee","دقيق الأرز، الجاجري، السمن",vegetarian,نباتي,15,75,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Bandar laddu,بندر لادو,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar","بيسان، جاجري، مسحوق الهيل، سمن، كاجو، زبيب، شراب جاجري، سكر",vegetarian,نباتي,5,35,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Chikki,تشيكي,"Peanuts, jaggery","الفول السوداني، الجاجري",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Maharashtra,West
+Dharwad pedha,درواد بيدها,"Milk, Sugar, Dharwadi buffalo milk",الحليب والسكر وحليب الجاموس دروادي,vegetarian,نباتي,20,60,sweet,dessert,حلو,تحلية,Karnataka,South
+Double ka meetha,مزدوج كا ميتا,"Loaf bread, milk","رغيف خبز، حليب",vegetarian,نباتي,20,30,sweet,dessert,حلو,تحلية,Telangana,South
+Gavvalu,جاففالو,"Rice flour, sugar, salt, ghee, semolina","دقيق الأرز، السكر، الملح، السمن، السميد",vegetarian,نباتي,10,30,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Kakinada khaja,كاكينادا خاجا,"Wheat flour, sugar","دقيق القمح، السكر",vegetarian,نباتي,10,30,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Kuzhi paniyaram,كوزي بانيارام,"Black lentils, rice","العدس الأسود، الأرز",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Kerala,South
+Mysore pak,ميسور باك,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee","دقيق بيسان ، سميد ، فاصوليا مونج ، جاجري ، جوز الهند ، حليب بودرة منزوع الدسم ، سكر ، سمن",vegetarian,نباتي,5,20,sweet,dessert,حلو,تحلية,Karnataka,South
+Obbattu holige,تحية طيبة,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom","دقيق المائدة، الكركم، جوز الهند، الحمص، الجاجري، السمن، الهيل",vegetarian,نباتي,180,60,sweet,main course,حلو,طبق رئيسي,Karnataka,South
+Palathalikalu,بالاثاليكالو,"Rice flour, milk","دقيق الأرز، الحليب",vegetarian,نباتي,10,25,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Poornalu,بورنالو,"Chana dal, jaggery","شانا دال، جاجري",vegetarian,نباتي,240,60,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Pongal,بونجال,"Rice, jaggery, cashews, ghee","الأرز، الجاجري، الكاجو، السمن",vegetarian,نباتي,5,20,sweet,dessert,حلو,تحلية,Tamil Nadu,South
+Pootharekulu,بوثاركولو,"Rice flour, powdered sugar, ghee","دقيق الأرز، السكر البودرة، السمن",vegetarian,نباتي,10,60,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Qubani ka meetha,قباني كا ميتا,"Apricots, sugar syrup","المشمش، شراب السكر",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Telangana,South
+Sheer korma,كورما محض,"Vermicelli pudding, milk","بودنغ الشعيرية، الحليب",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Telangana,South
+Unni Appam,أوني أبام,"Rice flour, banana, jaggery, coconut","دقيق الأرز، الموز، الجاجري، جوز الهند",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Tamil Nadu,South
+Kajjikaya,كاجيكايا,"Rice flour, jaggery, coconut","دقيق الأرز، الجاجري، جوز الهند",vegetarian,نباتي,40,15,sweet,dessert,حلو,تحلية,Andhra Pradesh,South
+Anarsa,أنارسا,"Rice flour, jaggery, khus-khus seeds","دقيق الأرز، الجاجري، بذور الخوص",vegetarian,نباتي,10,50,sweet,dessert,حلو,تحلية,Maharashtra,West
+Basundi,باسوندي,"Sugar, milk, nuts","سكر، حليب، مكسرات",vegetarian,نباتي,10,35,sweet,dessert,حلو,تحلية,Gujarat,West
+Dhondas,دونداس,"Cucumber, rava","خيار، رافا",vegetarian,نباتي,10,50,sweet,dessert,حلو,تحلية,Maharashtra,West
+Doodhpak,دودباك,"Milk, rice, sugar, dry fruits","الحليب، الأرز، السكر، الفواكه الجافة",vegetarian,نباتي,10,60,sweet,dessert,حلو,تحلية,Gujarat,West
+Mahim halwa,مهيم حلوة,"Semolina, sugar","سميد، سكر",vegetarian,نباتي,10,25,sweet,dessert,حلو,تحلية,Maharashtra,West
+Modak,موداك,"Rice flour, coconut, jaggery ","دقيق الأرز، جوز الهند، الجاجري",vegetarian,نباتي,10,15,sweet,dessert,حلو,تحلية,Maharashtra,West
+Shankarpali,شانكاربالي,"Sugar, ghee, maida flour, semolina","سكر، سمن، طحينة، سميد",vegetarian,نباتي,10,35,sweet,dessert,حلو,تحلية,Maharashtra,West
+Shrikhand,شريكاند,"Curd, sugar, saffron, cardamom","خثارة، سكر، زعفران، هيل",vegetarian,نباتي,10,720,sweet,dessert,حلو,تحلية,Maharashtra,West
+Sutar feni,سوتار فيني,"Maida, sugar, ghee","مايدة، سكر، سمن",vegetarian,نباتي,15,55,sweet,dessert,حلو,تحلية,Maharashtra,West
+Maach Jhol,ماخ جول,"Fish, potol, tomato, chillies, ginger, garlic","السمك، البوتول، الطماطم، الفلفل، الزنجبيل، الثوم",non vegetarian,غير نباتي,10,40,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Pork Bharta,لحم الخنزير بهارتا,"Boiled pork, onions, chillies, ginger and garlic",لحم الخنزير المسلوق والبصل والفلفل والزنجبيل والثوم,non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Tripura,North East
+Chak Hao Kheer,تشاك هاو خير,"Rice, milk, sugar, cardamom","أرز، حليب، سكر، هيل",vegetarian,نباتي,240,45,sweet,dessert,حلو,تحلية,Manipur,North East
+Galho,جالهو,"Rice, axone, salt, water, chillies, pork","أرز، أكسون، ملح، ماء، فلفل حار، لحم خنزير",non vegetarian,غير نباتي,5,15,spicy,main course,بهارات,طبق رئيسي,Nagaland,North East
+Aloo gobi,ألو جوبي,"Cauliflower, potato, garam masala, turmeric, curry leaves","قرنبيط، بطاطا، جارام ماسالا، كركم، أوراق الكاري",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Aloo tikki,ألو تيكي,"Rice flour, potato, bread crumbs, garam masala, salt","دقيق الأرز، البطاطس، فتات الخبز، جارام ماسالا، ملح",vegetarian,نباتي,5,20,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Aloo matar,الو مطر,"Potato, peas, chillies, ginger, garam masala, garlic","بطاطا، بازلاء، فلفل حار، زنجبيل، جارام ماسالا، ثوم",vegetarian,نباتي,5,40,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Aloo methi,ألو ميثي,"Potato, fenugreek leaves, chillies, salt, oil","بطاطا، أوراق الحلبة، فلفل حار، ملح، زيت",vegetarian,نباتي,10,40,bitter,main course,بهارات,طبق رئيسي,Punjab,North
+Aloo shimla mirch,ألو شيملا ميرش,"Potato, shimla mirch, garam masala, amchur powder, salt","بطاطا، شيملا ميرش، جارام ماسالا، مسحوق أمشور، ملح",vegetarian,نباتي,10,40,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Bhatura,بهاتورا,"Chole, rava, yogurt, plain flour, baking soda","شول، رافا، زبادي، دقيق عادي، صودا الخبز",vegetarian,نباتي,20,20,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Bhindi masala,بهندي ماسالا,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder","أصابع السيدات، جارام ماسالا، كاسوري ميثي، طماطم، مسحوق الفلفل الحار",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Biryani,برياني,"Chicken thighs, basmati rice, star anise, sweet, green chillies","أفخاذ دجاج، أرز بسمتي، يانسون نجمي، فلفل أخضر حلو",non vegetarian,غير نباتي,30,120,spicy,main course,بهارات,طبق رئيسي,Telangana,South
+Butter chicken,دجاج بالزبدة,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter","دجاج، زبادي يوناني، كريمة، مسحوق جارام ماسالا، كاجو، زبدة",non vegetarian,غير نباتي,10,35,spicy,main course,بهارات,طبق رئيسي,NCT of Delhi,North
+Chana masala,شانا ماسالا,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil","حمص، معجون طماطم، جارام ماسالا، زنجبيل، بصل أحمر، زيت الأفوكادو",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Chapati,جباتي,"Whole wheat flour, olive oil, hot water, all purpose flour","دقيق القمح الكامل، زيت زيتون، ماء ساخن، دقيق لجميع الأغراض",vegetarian,نباتي,10,10,-1,main course,,طبق رئيسي,Maharashtra,West
+Chicken razala,رازالا دجاج,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron","دجاج، داهي، سمسم، مسحوق جارام ماسالا، كاجو، زعفران",non vegetarian,غير نباتي,10,35,spicy,main course,بهارات,طبق رئيسي,West Bengal,East
+Chicken Tikka masala,دجاج تكا ماسالا,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala","خبز نان، صلصة طماطم، صدور دجاج منزوعة الجلد، كريمة ثقيلة، جارام ماسالا",non vegetarian,غير نباتي,10,50,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Chicken Tikka,دجاج تيكا,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg","دجاج، خبز القمح الكامل، دقيق الأرز، مسحوق جارام ماسالا، بيضة كاملة",non vegetarian,غير نباتي,120,45,spicy,starter,بهارات,مقبلات,Punjab,North
+Chole bhature,شول بهاتور,"Chole, bhatura, garam masala, bay leaf, cinnamon stick","شولي، باتورا، جارام ماسالا، ورق الغار، عود القرفة",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Daal baati churma,دال باتي تشورما,"Moong dal, masoor dal, chana dal, wheat flour, almond","مونج دال، ماسور دال، تشانا دال، دقيق القمح، اللوز",vegetarian,نباتي,10,90,spicy,main course,بهارات,طبق رئيسي,Rajasthan,West
+Daal puri,دال بوري,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour","مونج دال، مسحوق جارام ماسالا، ثوم، فلفل أخضر حار، دقيق لجميع الأغراض",vegetarian,نباتي,30,30,spicy,main course,بهارات,طبق رئيسي,West Bengal,East
+Dal makhani ,دال ماخاني,"Red kidney beans, urad dal, cream, garam masala, chili powder","فاصوليا حمراء، أوراد دال، كريمة، جارام ماسالا، مسحوق الفلفل الحار",vegetarian,نباتي,10,60,sweet,main course,حلو,طبق رئيسي,Punjab,North
+Dal tadka,دال تادكا,"Pigeon peas, garam masala, ginger, red onion, kasuri methi","بازلاء حمامة، جارام ماسالا، زنجبيل، بصل أحمر، كاسوري ميثي",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Dum aloo,دوم ألو,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes","بطاطا صغيرة، جارام ماسالا، كاجو، كاسوري ميثي، طماطم",vegetarian,نباتي,20,50,spicy,main course,بهارات,طبق رئيسي,Jammu & Kashmir,North
+Poha,بوها,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice","رقائق الأرز المخفوقة، البطاطس، أوراق الكاري، الفلفل الأخضر الحار، عصير الليمون",vegetarian,نباتي,20,30,spicy,snack,بهارات,تسالي,Maharashtra,West
+Fara,فارا,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder","شانا دال، دقيق القمح الكامل، أرهار دال، أبيض أوراد دال، مسحوق جارام ماسالا",vegetarian,نباتي,10,60,spicy,snack,بهارات,تسالي,Chhattisgarh,Central
+Kachori,كاتشوري,"Moong dal, rava, garam masala, dough, fennel seeds","مونج دال، رافا، جارام ماسالا، عجينة، بذور الشمر",vegetarian,نباتي,30,60,spicy,snack,بهارات,تسالي,Uttar Pradesh,North
+Kadai paneer,كاداي بانير,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts","جبنة قريش، فلفل حلو، مرق، جارام ماسالا، كاجو",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Kadhi pakoda,كادي باكودا,"Besan, garam masala powder, gram flour, ginger, curry leaves","بيسان، مسحوق جارام ماسالا، دقيق جرام، زنجبيل، أوراق الكاري",vegetarian,نباتي,10,60,spicy,main course,بهارات,طبق رئيسي,Haryana,North
+Karela bharta,كاريلا بهارتا,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder","القرع المر، الشمر، مسحوق جارام ماسالا، مسحوق الفلفل الحار، مسحوق الأمشور",vegetarian,نباتي,20,50,bitter,main course,مر,طبق رئيسي,Punjab,North
+Khichdi,خيشدي,"Moong dal, green peas, ginger, tomato, green chili","مونج دال، بازلاء خضراء، زنجبيل، طماطم، فلفل أخضر حار",vegetarian,نباتي,40,20,spicy,main course,بهارات,طبق رئيسي,-1,-1
+Kofta,كفتة,"Paneer, potato, cream, corn flour, garam masala","بانير، بطاطا، كريمة، دقيق الذرة، جارام ماسالا",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Uttar Pradesh,North
+Kulfi falooda,كولفي فالودة,"Rose syrup, falooda sev, mixed nuts, saffron, sugar","شراب الورد، فالودة سيف، مكسرات مشكلة، زعفران، سكر",vegetarian,نباتي,45,25,sweet,dessert,حلو,تحلية,-1,-1
+Lauki ke kofte,لاوكي كه كفتة,"Bottle gourd, garam masala powder, gram flour, ginger, chillies","زجاجة قرع، مسحوق جارام ماسالا، دقيق جرام، زنجبيل، فلفل حار",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Uttar Pradesh,North
+Lauki ki subji,لاوكي كي سوبجي,"Bottle gourd, coconut oil, garam masala, ginger, green chillies","قرع، زيت جوز الهند، جارام ماسالا، زنجبيل، فلفل أخضر حار",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,-1,-1
+Litti chokha,ليتي تشوخا,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli","دقيق القمح، دقيق الحمص المحمص، الطماطم، بذور حبة البركة، الفلفل الحار",vegetarian,نباتي,45,60,spicy,main course,بهارات,طبق رئيسي,Bihar,North
+Makki di roti sarson da saag,ماكي دي روتي سارسون دا ساج,"Palak, makki atta, mustard green, garam masala, ginger","بالاك، مكي أتا، الخردل الأخضر، جارام ماسالا، زنجبيل",vegetarian,نباتي,25,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Misi roti,ميسي روتي,"Whole wheat flour, chickpea flour, green chilies","دقيق القمح الكامل، دقيق الحمص، الفلفل الأخضر",vegetarian,نباتي,30,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Mushroom do pyaza,فطر دو بيازا,"Mushroom, malai, garam masala, ginger, capsicum","فطر، مالاي، جارام ماسالا، زنجبيل، فليفلة",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Mushroom matar,مطر فطر,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes","حليب جوز الهند المعلب، بازلاء خضراء مجمدة، فطر بري، جارام ماسالا، طماطم",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Naan,نان,"Whole wheat flour, honey, butter, garlic","دقيق القمح الكامل، العسل، الزبدة، الثوم",vegetarian,نباتي,60,30,-1,main course,,طبق رئيسي,Punjab,North
+Navrattan korma,نافراتان كورما,"Green beans, potatoes, khus khus, low fat, garam masala powder","فاصوليا خضراء، بطاطا، خوص خاص، قليل الدسم، مسحوق جارام ماسالا",vegetarian,نباتي,25,40,spicy,main course,بهارات,طبق رئيسي,Uttar Pradesh,North
+Palak paneer,بالاك بانير,"Cottage cheese, palak, cream, garam masala, butter","جبنة قريش، بالاك، كريمة، جارام ماسالا، زبدة",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Paneer butter masala,بانير زبدة ماسالا,"Paneer, whipping cream, garam masala, cashew nuts, butter","بانير، كريمة مخفوقة، جارام ماسالا، كاجو، زبدة",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Paneer tikka masala,بانير تكا ماسالا,"Paneer, greek yogurt, tandoori masala, cream, bell pepper","بانير، زبادي يوناني، تندوري ماسالا، كريمة، فلفل حلو",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Pani puri,باني بوري,"Kala chana, mashed potato, boondi, sev, lemon","كالا شانا، بطاطا مهروسة، بوندي، سيف، ليمون",vegetarian,نباتي,15,2,spicy,snack,بهارات,تسالي,-1,-1
+Panjeeri,بانجيري,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina","دقيق القمح الكامل، بذور البطيخ المسك، بذور الخشخاش، العلكة الصالحة للأكل، السميد",vegetarian,نباتي,10,25,sweet,dessert,حلو,تحلية,Uttar Pradesh,
+Papad,باباد,"Urad dal, sev, lemon juice, chopped tomatoes","أوراد دال، سيف، عصير ليمون، طماطم مقطعة",vegetarian,نباتي,5,5,spicy,snack,بهارات,تسالي,-1,-1
+Paratha,باراثا,"Wheat flour, butter, potato, coriander","دقيق القمح، الزبدة، البطاطس، الكزبرة",vegetarian,نباتي,15,45,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Pattor,باتور,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli","فطيرة أربي، بذور السمسم، جور، دقيق البنغال جرام، إيملي",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Rajasthan,West
+Pindi chana,بيندي شانا,"Fennel, tea bags, tomato, kasuri methi, cinnamon","شمر، أكياس شاي، طماطم، كاسوري ميثي، قرفة",vegetarian,نباتي,500,120,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Rajma chaval,راجما شافال,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil","فاصوليا حمراء، مسحوق جارام ماسالا، زنجبيل، طماطم، زيت الخردل",vegetarian,نباتي,15,90,spicy,main course,بهارات,طبق رئيسي,-1,North
+Rongi,رونجي,"Garam masala powder, tomato, kasuri methi, cinnamon, mustard oil","مسحوق جارام ماسالا، طماطم، كاسوري ميثي، قرفة، زيت الخردل",vegetarian,نباتي,10,30,-1,main course,,طبق رئيسي,Punjab,North
+Samosa,سمبوسة,"Potatoes, green peas, garam masala, ginger, dough","بطاطا، بازلاء خضراء، جارام ماسالا، زنجبيل وعجين",vegetarian,نباتي,30,30,spicy,snack,بهارات,تسالي,-1,-1
+Sattu ki roti,ساتو كي روتي,"Sattu, atta, dough, filling, mustard oil","ساتو، عطا، عجين، حشوة، زيت خردل",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Bihar,North
+Shahi paneer,شاهي بانير,"Cottage cheese, malai, garam masala, ginger, tomato","جبنة قريش، مالاي، جارام ماسالا، زنجبيل، طماطم",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Shahi tukra,شاهي توكرا,"Rose water, milk, white bread slices, saffron, almonds","ماء ورد، حليب، شرائح خبز أبيض، زعفران، لوز",vegetarian,نباتي,10,30,sweet,dessert,حلو,تحلية,Telangana,South
+Vegetable jalfrezi,جالفريزي خضار,"Baby corn, french beans, garam masala, ginger, carrot","ذرة صغيرة، فاصوليا فرنسية، جارام ماسالا، زنجبيل، جزر",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Tandoori Chicken,دجاج تندوري,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil","زبادي يوناني، جارام ماسالا، كاسوري ميثي، ماء مالح، زيت الخردل",non vegetarian,غير نباتي,240,30,spicy,main course,بهارات,طبق رئيسي,Punjab,North
+Tandoori Fish Tikka,تندوري سمك تكا,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper","دقيق الحمص، مسحوق برياني ماسالا، زبادي، سمك فيليه، فلفل أخضر حلو",non vegetarian,غير نباتي,240,30,spicy,starter,بهارات,مقبلات,Punjab,North
+Attu,أتو,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli","دقيق القمح الكامل، أرهار دال، زنجبيل، كالا جيرا، فلفل أخضر حار",vegetarian,نباتي,150,25,spicy,snack,بهارات,مقبلات,Andhra Pradesh,South
+Avial,أفيال,"Raw banana, elephant foot yam, long beans, tindora, urad dal","موز خام، بطاطا قدم الفيل، فاصوليا طويلة، تندورا، أوراد دال",vegetarian,نباتي,30,45,spicy,main course,بهارات,طبق رئيسي,Kerala,South
+Bisi bele bath,حمام بيسي بيلي,"Split pigeon peas, chana dal, urad dal, green peas, french beans","بازلاء حمامة سبليت، شانا دال، أوراد دال، بازلاء خضراء، فاصوليا فرنسية",vegetarian,نباتي,30,45,spicy,main course,بهارات,طبق رئيسي,Karnataka,South
+Currivepillai sadam ,كوريفيبيلاي صدام,"Chana dal, urad dal, fresh coconut, sesame seeds, curry leaves","شانا دال، أوراد دال، جوز الهند الطازج، بذور السمسم، أوراق الكاري",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Dosa,دوسة,"Chana dal, urad dal, whole urad dal, blend rice, rock salt","شانا دال، أوراد دال، أوراد دال كامل، مزيج الأرز، الملح الصخري",vegetarian,نباتي,360,90,spicy,snack,بهارات,تسالي,-1,South
+Idiappam,إيديابام,"Rice flour, hot water, grated coconut","دقيق الأرز، ماء ساخن، جوز الهند المبشور",vegetarian,نباتي,120,30,spicy,snack,بهارات,تسالي,Tamil Nadu,South
+Idli,إدلي,"Split urad dal, urad dal, idli rice, thick poha, rock salt","سبليت أوراد دال، أوراد دال، أرز إيدلي، بوها سميك، ملح صخري",vegetarian,نباتي,360,90,spicy,snack,بهارات,تسالي,-1,South
+Kanji,كانجي,"Carrot, yellow mustard, red chilli, black salt","جزر، خردل أصفر، فلفل أحمر، ملح أسود",vegetarian,نباتي,10,45,-1,snack,,تسالي,Kerala,South
+Kaara kozhambu,كارا كوزامبو,"Sesame oil, drumstick, tamarind paste, sambar powder, tomato","زيت السمسم، أفخاذ، معجون التمر الهندي، مسحوق السامبار، الطماطم",vegetarian,نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Keerai kootu,كيراي كوتو,"Moong dal, chana dal, spinach, urad dal, coconut oil","مونج دال، شانا دال، سبانخ، أوراد دال، زيت جوز الهند",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Keerai masiyal,كيراي ماسيال,"Urad dal, curry leaves, sugar, mustard seeds, spinach","أوراد دال، أوراق الكاري، السكر، بذور الخردل، السبانخ",vegetarian,نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Keerai sadam,كيراي صدام,"Greens, tomato, mustard seeds, fenugreek seeds",الخضر والطماطم وبذور الخردل وبذور الحلبة,vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Keerai poriyal,كيراي بوريال,"Amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili","أوراق القطيفة، سبليت أوراد دال، بذور الخردل، جوز الهند المبشور، الفلفل الأحمر الحار",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Beef Fry,لحم بقري مقلي,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder","لحم بقري، جوز هند، جارام ماسالا، أوراق الكاري، فلفل أخضر حار، مسحوق فلفل حار",non vegetarian,غير نباتي,10,60,spicy,main course,بهارات,طبق رئيسي,Kerala,South
+Kootu,كوتو,"Chana dal, urad dal, potato, beans, peas","شانا دال، أوراد دال، البطاطس، الفاصوليا، البازلاء",vegetarian,نباتي,10,15,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Kos kootu,كوس كوتو,"Moong dal, chana dal, cabbage, tamarind, curry leaves","مونج دال، تشانا دال، ملفوف، تمر هندي، أوراق الكاري",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Koshambri,كوشامبري,"Moong dal, cucumber, curry leaves, green chili, lemon juice","مونج دال، خيار، أوراق الكاري، فلفل أخضر حار، عصير ليمون",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Karnataka,South
+Kothamali sadam,كوثمالي صدام,"Chana dal, urad dal, gooseberry, raw rice, curry leaves","شانا دال، أوراد دال، عنب الثعلب، الأرز الخام، أوراق الكاري",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Kuzhakkattai,كوزهاكاتاي,"Sesame oil, raw rice, jaggery, grated coconut","زيت السمسم، الأرز الخام، الجاجري، جوز الهند المبشور",vegetarian,نباتي,10,90,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Kuzhambu,كوزامبو,"Pearl onions, urad dal, drumsticks, tomato, curry leaves","بصل لؤلؤي، أوراد دال، أفخاذ، طماطم، أوراق الكاري",vegetarian,نباتي,5,30,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Masala Dosa,ماسالا دوسة,"Chana dal, urad dal, potatoes, idli rice, thick poha","شانا دال، أوراد دال، بطاطس، أرز إيدلي، بوها سميك",vegetarian,نباتي,360,90,spicy,snack,بهارات,تسالي,-1,South
+Pachadi,باتشادي,"Coconut oil, cucumber, curd, curry leaves, mustard seeds","زيت جوز الهند، الخيار، اللبن الرائب، أوراق الكاري، بذور الخردل",vegetarian,نباتي,10,25,-1,main course,,طبق رئيسي,-1,South
+Paniyaram,بانيارام,"Yogurt, ginger, curry leaves, baking soda, green chilli","زبادي، زنجبيل، أوراق الكاري، صودا الخبز، الفلفل الأخضر",vegetarian,نباتي,10,20,-1,main course,,طبق رئيسي,Tamil Nadu,South
+Papadum,بابادوم,"Lentils, black pepper, vegetable oil","عدس، فلفل أسود، زيت نباتي",vegetarian,نباتي,5,5,spicy,snack,بهارات,تسالي,Kerala,South
+Paravannam,بارافانام,"Raw rice,  jaggery, milk","الأرز الخام، الجاجري، الحليب",vegetarian,نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Kerala,South
+Payasam,باياسام,"Rice, cashew nuts, milk, raisins, sugar","الأرز، الكاجو، الحليب، الزبيب، السكر",vegetarian,نباتي,15,30,sweet,dessert,حلو,تحلية,-1,South
+Paruppu sadam,باروبو صدام,"Arhar dal, sambar powder, tomato, curry leaves, fennel seeds","أرهار دال، مسحوق السامبار، الطماطم، أوراق الكاري، بذور الشمر",vegetarian,نباتي,10,20,-1,main course,,طبق رئيسي,Tamil Nadu,South
+Pesarattu,بيساراتو,"Green moong beans, rice flour","فاصوليا خضراء، دقيق الأرز",vegetarian,نباتي,120,20,spicy,snack,بهارات,تسالي,Andhra Pradesh,South
+Poriyal,بوريال,"Chana dal, urad dal, beans, coconut, mustard","شانا دال، أوراد دال، فاصوليا، جوز الهند، خردل",vegetarian,نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Puli sadam,بولي صدام,"Urad dal, lemon, tamarind, cooked rice, curry leaves","أوراد دال، ليمون، تمر هندي، أرز مطبوخ، أوراق الكاري",vegetarian,نباتي,10,20,-1,main course,,طبق رئيسي,Tamil Nadu,South
+Rasam,رسام,"Tomato, curry leaves, garlic, mustard seeds, hot water","طماطم، أوراق الكاري، الثوم، بذور الخردل، الماء الساخن",vegetarian,نباتي,10,35,spicy,main course,بهارات,طبق رئيسي,-1,South
+Puttu,بوتو,"Brown rice flour, sugar, grated coconut","دقيق الأرز البني، السكر، جوز الهند المبشور",vegetarian,نباتي,495,40,-1,main course,,طبق رئيسي,Kerala,South
+Sambar,سامبر,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind","بازلاء حمامة، باذنجان، أفخاذ، مسحوق سامبر، تمر هندي",vegetarian,نباتي,20,45,spicy,main course,بهارات,طبق رئيسي,-1,South
+Sandige,سانديج,"Thin rice flakes, black sesame seeds, curry leaves","رقائق الأرز الرقيقة، بذور السمسم الأسود، أوراق الكاري",vegetarian,نباتي,120,60,-1,main course,,طبق رئيسي,Karnataka,South
+Sevai,سيفاي,"Sevai, parboiled rice, steamer","سيفاي، أرز مسلوق، باخرة",vegetarian,نباتي,120,30,-1,main course,,طبق رئيسي,-1,South
+Thayir sadam,ثاير صدام,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds","أوراد دال، خثارة، زيت السمسم، زنجبيل، أوراق الكاري، بذور الخردل",vegetarian,نباتي,10,20,-1,main course,,طبق رئيسي,Tamil Nadu,South
+Theeyal,ثيال,"Coconut, whole red beans, masala, sesame oil, tamarind","جوز الهند، فاصوليا حمراء كاملة، ماسالا، زيت السمسم، تمر هندي",vegetarian,نباتي,15,20,-1,main course,,طبق رئيسي,Kerala,South
+Uttapam,أوتابام,"Chana dal, urad dal, thick poha, tomato, butter","شانا دال، أوراد دال، بوها سميكة، طماطم، زبدة",vegetarian,نباتي,10,20,spicy,snack,بهارات,تسالي,-1,South
+Vada,فادا,"Urad dal, ginger, curry leaves, green chilies, black pepper","أوراد دال، زنجبيل، أوراق الكاري، فلفل أخضر حار، فلفل أسود",vegetarian,نباتي,15,20,spicy,snack,بهارات,تسالي,-1,South
+Chicken Varuval,دجاج فاروفال,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon","مسحوق لحم بالكاري، قطع دجاج، زنجبيل، طماطم، قرفة",non vegetarian,غير نباتي,10,35,spicy,main course,بهارات,طبق رئيسي,Tamil Nadu,South
+Upma,أوبما,"Chana dal, urad dal, ginger, curry leaves, sugar","شانا دال، أوراد دال، زنجبيل، أوراق الكاري، سكر",vegetarian,نباتي,10,20,spicy,snack,بهارات,تسالي,-1,-1
+Amti,امتي,"Kala masala, arhar dal, curry leaves, mustard seeds, hot water","كالا ماسالا، أرهار دال، أوراق الكاري، بذور الخردل، الماء الساخن",vegetarian,نباتي,10,45,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Zunka,زونكا,"Gram flour, mustard, garlic, turmeric, red chilli","دقيق جرام، خردل، ثوم، كركم، فلفل أحمر",vegetarian,نباتي,10,25,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Kolim Jawla,كوليم جولا,"Baingan, fish, coconut oil, fresh coconut, ginger","بينجان، سمك، زيت جوز الهند، جوز الهند الطازج، زنجبيل",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Saath,ساث,"Urad dal, potatoes, wheat flour, sooji","أوراد دال، بطاطس، دقيق القمح، سوجي",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Bajri no rotlo,باجري لا روتلو,"Wheat flour, pearl millet flour, hot water","دقيق القمح، دقيق الدخن، ماء ساخن",vegetarian,نباتي,10,10,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Coconut vadi,وادي جوز الهند,"Condensed milk, mawa, desiccated coconut, almonds, cashews","حليب مكثف، ماوا، جوز هند مجفف، لوز، كاجو",vegetarian,نباتي,20,30,sweet,dessert,حلو,تحلية,Maharashtra,West
+Bhakri,بكري,"Jowar flour, sesame seeds","دقيق جوار، سمسم",vegetarian,نباتي,20,25,-1,main course,,طبق رئيسي,Maharashtra,West
+Bombil fry,بومبيل فراي,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies","بط بومباي، مالفاني ماسالا، دقيق الأرز، بومباي رافا، فلفل أخضر حار",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Chakali,تشاكالي,"Rice flour, sesame, plain flour, turmeric, red chilli","دقيق الأرز، سمسم، دقيق عادي، كركم، فلفل أحمر",vegetarian,نباتي,10,40,spicy,snack,بهارات,تسالي,Maharashtra,West
+Chevdo,شيبدو,"Citric acid, fry, raisins, sugar, chana daal","حامض الستريك، جمهورية يوغوسلافيا الاتحادية، الزبيب، السكر، شانا دال",vegetarian,نباتي,20,30,spicy,snack,بهارات,تسالي,Gujarat,West
+Chorafali,تشورافالي,"Urad dal, bengal gram flour, dried mango, baking soda, black salt","أوراد دال، دقيق البنغال جرام، مانجو مجفف، صودا الخبز، ملح أسود",vegetarian,نباتي,5,15,spicy,snack,بهارات,تسالي,Gujarat,West
+Copra paak,كوبرا باك,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut","حليب مكثف، كريمة نستله، ثلج جوز الهند، ملون طعام أحمر، جوز الهند المجفف",vegetarian,نباتي,20,30,-1,main course,,طبق رئيسي,Gujarat,West
+Daal Dhokli,دال دوكلي,"Whole wheat flour, dal, kokum, gur, bengal gram flour","دقيق القمح الكامل، دال، كوكوم، جور، دقيق جرام البنغال",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Kutchi dabeli,كوتشي دابيلي,"Pav, aloo, peanut, pomegranate, star anise","باف، ألو، فول سوداني، رمان، يانسون نجمي",vegetarian,نباتي,30,10,spicy,snack,بهارات,تسالي,Gujarat,West
+Dahi vada,داهي فادا,"Urad dal, bhuna chana, garam masala, dates, tamarind","أوراد دال، بهونا شانا، جارام ماسالا، تمر، تمر هندي",vegetarian,نباتي,30,30,-1,snack,,تسالي,Maharashtra,West
+Dalithoy,داليثوي,"Arhar dal, coconut oil, curry leaves, mustard seeds, red chilli","أرهار دال، زيت جوز الهند، أوراق الكاري، بذور الخردل، الفلفل الأحمر",vegetarian,نباتي,5,20,-1,main course,,طبق رئيسي,Maharashtra,West
+Dhokla,دكلا,"Rava, coconut, gram flour, mustard, sesame","رافا، جوز الهند، دقيق الجرام، خردل، سمسم",vegetarian,نباتي,10,20,spicy,snack,بهارات,تسالي,Gujarat,West
+Dudhi halwa,دودهي حلوة,"Bottle gourd, green, raisins, sugar, clarified butter","قرع أخضر، زبيب، سكر، زبدة مصفاة",vegetarian,نباتي,15,30,sweet,dessert,حلو,تحلية,Gujarat,West
+Gatta curry,جاتا كاري,"Yogurt, besan, sauce, garam masala powder, gram flour","زبادي، بيسان، صوص، مسحوق جارام ماسالا، دقيق جرام",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,Rajasthan,West
+Gud papdi,الله بابدي,"Wheat flour, jaggery, clarified butter, sliced almonds","دقيق القمح، الجاجري، الزبدة المصفاة، شرائح اللوز",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Gujarat,West
+Ghooghra,الغوغرة,"Dry fruits, semolina, all purpose flour","فواكه جافة، سميد، دقيق لجميع الأغراض",vegetarian,نباتي,-1,-1,spicy,snack,بهارات,تسالي,Gujarat,West
+Handwo,هاندوو,"Bottle gourd, chana dal, cabbage, urad dal, toor dal","قرع الزجاجة، شانا دال، ملفوف، أوراد دال، تور دال",vegetarian,نباتي,20,30,spicy,snack,بهارات,تسالي,Gujarat,West
+Halvasan,هالفاسان,"Whole wheat rava, chia seed, lemon, edible gum, litre milk","رافا القمح الكامل، بذور الشيا، ليمون، علكة صالحة للأكل، لتر حليب",vegetarian,نباتي,-1,-1,sweet,dessert,حلو,تحلية,Gujarat,West
+Jeera Aloo,جيرا ألو,"Green chilies, lemon juice, chili powder, boiled potatoes","فلفل أخضر حار، عصير ليمون، مسحوق فلفل حار، بطاطس مسلوقة",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Kansar,كانسار,"Wheat flour, cashews, rapeseed oil","دقيق القمح، الكاجو، زيت بذور اللفت",vegetarian,نباتي,10,40,-1,main course,,طبق رئيسي,Gujarat,West
+Keri no ras,كيري لا رأس,"Mango, sugar","مانجو، سكر",vegetarian,نباتي,10,10,sour,main course,حامض,طبق رئيسي,Gujarat,West
+Khakhra,خاخرا,"Whole wheat flour, low fat, bengal gram flour","دقيق القمح الكامل، قليل الدسم، دقيق جرام البنغال",vegetarian,نباتي,20,40,spicy,snack,بهارات,تسالي,Gujarat,West
+Khandvi,خاندفي,"Green chili paste, white sesame seeds, gram flour, curry leaves, green chili","معجون الفلفل الأخضر، بذور السمسم الأبيض، دقيق الجرام، أوراق الكاري، الفلفل الأخضر الحار",vegetarian,نباتي,20,45,spicy,snack,بهارات,تسالي,Gujarat,West
+Kombdi vade,كومبدي فيد,"Rice flour, urad dal, wheat flour, gram flour, turmeric","دقيق الأرز، أوراد دال، دقيق القمح، دقيق الجرام، الكركم",vegetarian,نباتي,10,25,spicy,snack,بهارات,تسالي,Maharashtra,West
+Laapsi,لابسي,"Cinnamon, jaggery, clarified butter, dry roasted","قرفة، جاجري، زبدة مصفاة، محمصة جافة",vegetarian,نباتي,10,40,spicy,main course,بهارات,طبق رئيسي,Madhya Pradesh,Central
+Koshimbir,كوشيمبير,"Cucumber, carrot, tomatoes, cilantro","خيار، جزر، طماطم، كزبرة",vegetarian,نباتي,10,10,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Methi na Gota,ميثي في ??جوتا,"Rava, gram flour, lemon juice, turmeric, fenugreek leaves","رافا، دقيق الحمص، عصير الليمون، الكركم، أوراق الحلبة",vegetarian,نباتي,15,30,bitter,main course,مر,طبق رئيسي,Gujarat,West
+Mohanthal,موهانثال,"Rose water, pistachio, badam, bengal gram flour, saffron","ماء ورد، فستق، بادام، دقيق البنغال جرام، زعفران",vegetarian,نباتي,5,45,sweet,dessert,حلو,تحلية,Gujarat,West
+Muthiya,موتيا,"Bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour","قرع، دقيق القمح الكامل، رافا، بذور السمسم، دقيق جرام البنغال",vegetarian,نباتي,15,30,bitter,snack,مر,تسالي,Gujarat,West
+Patra,باترا,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli","فطيرة أربي، بذور السمسم، جور، دقيق البنغال جرام، إيملي",vegetarian,نباتي,10,40,spicy,snack,بهارات,تسالي,Gujarat,West
+Pav Bhaji,باف باجي,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls","باف باجي ماسالا، جوبي، بطاطا، بازلاء خضراء، لفائف العشاء",vegetarian,نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Puri Bhaji,بوري باجي,"Aloo, urad dal, mustard, ginger, curry leaves","ألو، أوراد دال، خردل، زنجبيل، أوراق الكاري",vegetarian,نباتي,10,30,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Sabudana Khichadi,سابودانا خيشادي,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili","فول سوداني خام، سابودانا، ليمون، زيت الأفوكادو، أوراق الكاري، الفلفل الأخضر الحار",vegetarian,نباتي,70,30,spicy,snack,بهارات,تسالي,Maharashtra,West
+Sev khamani,سيف خاماني,"Khaman, pomegranate, sev, powdered sugar, garlic","خامان، رمان، سيف، سكر بودرة، ثوم",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Sev tameta,سيف تاميتا,"Sev, ginger, tomato, sugar","سيف، زنجبيل، طماطم، سكر",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Namakpara,ناماكبارا,"Wheat flour, baking soda, all purpose flour, black pepper, sunflower oil","دقيق القمح، صودا الخبز، دقيق لجميع الأغراض، فلفل أسود، زيت دوار الشمس",vegetarian,نباتي,10,35,spicy,snack,بهارات,تسالي,Gujarat,West
+Sukhdi,سوخدي,"Whole wheat flour, gur, clarified butter","دقيق القمح الكامل، جور، زبدة مصفاة",vegetarian,نباتي,10,20,sweet,dessert,حلو,تحلية,Maharashtra,West
+Surnoli,سورنولي,"Rice flakes, yogurt, raw rice, jaggery, grated coconut","رقائق الأرز، الزبادي، الأرز الخام، الجاجري، جوز الهند المبشور",vegetarian,نباتي,60,10,spicy,snack,بهارات,تسالي,Maharashtra,West
+Thalipeeth,ثليبيث,"Whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds","دقيق القمح الكامل، دقيق الأرز، دقيق الدخن، دقيق الذرة الرفيعة، بذور السمسم",vegetarian,نباتي,25,30,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Undhiyu,أندهيو,"Sweet potato, surti papdi, baby potatoes, valor papdi, green peas","بطاطا حلوة، سورتي بابدي، بطاطا صغيرة، فالور بابدي، بازلاء خضراء",vegetarian,نباتي,25,60,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Veg Kolhapuri,الخضار كولهابوري,"Gobi, potato, beans, khus khus, coconut","جوبي، بطاطا، فاصوليا، خوس خوس، جوز الهند",vegetarian,نباتي,20,30,spicy,main course,بهارات,طبق رئيسي,Maharashtra,West
+Vindaloo,فيندالو,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon","دجاج، زيت جوز الهند، خل النبيذ، الزنجبيل، الأخضر، القرفة",non vegetarian,غير نباتي,10,40,spicy,main course,بهارات,طبق رئيسي,Goa,West
+Lilva Kachori,ليلفا كاتشوري,"Green garlic chutney, fresh green peas, ginger, lemon juice, plain flour","صلصة الثوم الأخضر، البازلاء الخضراء الطازجة، الزنجبيل، عصير الليمون، الدقيق العادي",vegetarian,نباتي,30,6,spicy,snack,بهارات,تسالي,Gujarat,West
+Mag Dhokli,ماج دوكلي,"Moong beans, jaggery, red chillies, oil, salt","فاصولياء مونج، جاجري، فلفل أحمر، زيت، ملح",vegetarian,نباتي,-1,-1,spicy,snack,بهارات,تسالي,Gujarat,West
+Khichu,كيتشو,"Rice flour, sesame seeds, baking soda, peanut oil","دقيق الأرز، بذور السمسم، صودا الخبز، زيت الفول السوداني",vegetarian,نباتي,5,10,spicy,snack,بهارات,تسالي,Gujarat,West
+Thepla,ثيبلا,"Chickpea flour, methi leaves, jowar flour, wheat flour","دقيق الحمص، أوراق الميثي، دقيق الجوار، دقيق القمح",vegetarian,نباتي,15,30,spicy,snack,بهارات,تسالي,Gujarat,West
+Farsi Puri,الفارسية بوري,"Semolina, clarified butter, oil, white flour, black pepper","سميد، زبدة، زيت، دقيق أبيض، فلفل أسود",vegetarian,نباتي,-1,-1,-1,snack,,تسالي,Gujarat,West
+Khaman,خامان,"Yogurt, fresh coconut, sesame seeds, semolina, gram flour","زبادي، جوز الهند الطازج، بذور السمسم، سميد، دقيق الجرام",vegetarian,نباتي,10,20,spicy,snack,بهارات,تسالي,Gujarat,West
+Turiya Patra Vatana sabji,توريا باترا فاتانا سابجي,"Ridge gourd, baking soda, sugar, grated coconut, peas","قرع ريدج، صودا الخبز، السكر، جوز الهند المبشور، البازلاء",vegetarian,نباتي,35,40,spicy,main course,بهارات,طبق رئيسي,Gujarat,West
+Churma Ladoo,تشورما لادو,"Whole wheat flour, khus khus, sesame seeds, dry coconut, gur","دقيق القمح الكامل، خوص، بذور السمسم، جوز الهند الجاف، جور",vegetarian,نباتي,12,40,sweet,dessert,حلو,تحلية,Rajasthan,West
+Cheera Doi,تشيرا دوي,"Rice, mango, curd","أرز، مانجو، خثارة",vegetarian,نباتي,-1,-1,sweet,dessert,حلو,تحلية,West Bengal,East
+Gheela Pitha,جيلا بيثا,"Sticky rice, rice flour, jaggery, orange rind","الأرز اللزج، دقيق الأرز، الجاجري، قشر البرتقال",vegetarian,نباتي,10,30,sweet,dessert,حلو,تحلية,Assam,North East
+Khar,خار,"Raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds","البابايا الخام، بانش فوران ماسالا، بذور حبة البركة، زيت الخردل، بذور الشمر",vegetarian,نباتي,10,20,-1,main course,,طبق رئيسي,Assam,North East
+Kumol Sawul,كومول ساول,"Rice, eggs, carrot, beetroot","أرز، بيض، جزر، شمندر",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Luchi,لوتشي,"Maida, vegetable oil","مايدا، زيت نباتي",vegetarian,نباتي,20,30,-1,main course,,طبق رئيسي,West Bengal,East
+Alu Pitika,ألو بيتيكا,"Potatoes, mustard oil, fish, green chillies","البطاطس، زيت الخردل، السمك، الفلفل الأخضر",non vegetarian,غير نباتي,5,20,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Masor tenga,ماسور تنغا,"Ridge gourd, fish, lemon, tomatoes, mustard oil","قرع ريدج، سمك، ليمون، طماطم، زيت الخردل",non vegetarian,غير نباتي,15,25,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Bengena Pitika,بينجينا بيتيكا,"Brinjal, onions, salt, sesame seeds, coriander","برينجال، بصل، ملح، سمسم، كزبرة",vegetarian,نباتي,-1,-1,-1,main course,,طبق رئيسي,Assam,North East
+Bilahi Maas,بلاهي ماس,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf","بطاطا، جارام ماسالا، طماطم، زيت الخردل، ورق الغار",non vegetarian,غير نباتي,10,20,-1,main course,,طبق رئيسي,Assam,North East
+Black rice,أرز أسود,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder","الأرز الأسود المحظور، الدجاج، زيت الزيتون، شرائح اللوز، مسحوق الثوم",non vegetarian,غير نباتي,-1,-1,-1,main course,,طبق رئيسي,Manipur,North East
+Bora Sawul,بورا ساول,"Biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds","برياني ماسالا، خضروات مشكلة، مونج دال أصفر، أحمر كامل، بذور خردل",vegetarian,نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Brown Rice,أرز بني,"Brown rice, soy sauce, olive oil","الأرز البني، صلصة الصويا، زيت الزيتون",vegetarian,نباتي,15,25,-1,main course,,طبق رئيسي,-1,-1
+Chingri malai curry,كاري تشينغري مالاي,"Coconut milk, lobster, fresh green chilli, ginger, red onion","حليب جوز الهند، جراد البحر، الفلفل الأخضر الطازج، الزنجبيل، البصل الأحمر",non vegetarian,غير نباتي,10,40,spicy,main course,بهارات,طبق رئيسي,West Bengal,East
+Goja,غوجا,"Baking soda, clarified butter, oil, all purpose flour","صودا الخبز، الزبدة الموضحة، الزيت، الدقيق لجميع الأغراض",vegetarian,نباتي,20,60,sweet,dessert,حلو,تحلية,West Bengal,East
+Hando Guri,هاندو جوري,"Jaggery, raisins","جاجري، زبيب",vegetarian,نباتي,-1,-1,sweet,dessert,حلو,تحلية,Assam,North East
+Haq Maas,حق ماس,"Lamb, garam masala powder, curd, turmeric, bay leaf","لحم ضأن، مسحوق جارام ماسالا، خثارة، كركم، ورق الغار",non vegetarian,غير نباتي,20,40,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Chingri Bhape,تشينغري بهابي,"Coconut, prawns, curd, mustard seed, green chili","جوز الهند، روبيان، خثارة، بذور الخردل، فلفل أخضر حار",non vegetarian,غير نباتي,15,30,-1,main course,,طبق رئيسي,West Bengal,East
+Kabiraji,كابراجي,"Fish fillet, besan, lemon, mint, ginger","سمك فيليه، بيسان، ليمون، نعناع، ??زنجبيل",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,West Bengal,East
+Khorisa,خريسة,"Fermented bamboo shoot, potato, ginger, green, mustard oil","براعم الخيزران المتخمرة، البطاطس، الزنجبيل، الأخضر، زيت الخردل",vegetarian,نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Koldil Chicken,دجاج كولديل,"Banana flower, chicken, green chili, mustard oil, lemon juice","زهرة الموز، الدجاج، الفلفل الأخضر الحار، زيت الخردل، عصير الليمون",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Konir Dom,كونير دوم,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick","الو، طماطم، زيت الخردل، ورق الغار، عود القرفة",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Koldil Duck,كولديل داك,"Rice flour, mutton, banana, gram flour, olive oil, baking powder","دقيق الأرز، لحم الضأن، الموز، دقيق الجرام، زيت الزيتون، مسحوق الخبز",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Masor Koni,ماسور كوني,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato","بطارخ السمك، زهور اليقطين، زيت الخردل، الكركم، الطماطم",non vegetarian,غير نباتي,-1,-1,spicy,main course,بهارات,طبق رئيسي,Assam,North East
+Mishti Chholar Dal,مشتي تشولر دال,"Chana dal, fresh coconut, ginger, cinnamon, raisins","تشانا دال، جوز الهند الطازج، الزنجبيل، القرفة، الزبيب",vegetarian,نباتي,10,30,sweet,main course,حلو,طبق رئيسي,West Bengal,East
+Pakhala,باخالا,"Curd, cooked rice, curry leaves, dry chilli",اللبن الرائب والأرز المطبوخ وأوراق الكاري والفلفل الجاف,vegetarian,نباتي,-1,-1,-1,main course,,طبق رئيسي,Odisha,East
+Pani Pitha,باني بيثا,"Tea leaves, white sesame seeds, dry coconut, soaked rice","أوراق الشاي، بذور السمسم الأبيض، جوز الهند الجاف، الأرز المنقوع",vegetarian,نباتي,10,20,-1,main course,,طبق رئيسي,Assam,North East
+Payokh,بايوخ,"Basmati rice, rose water, sugar, clarified butter, cardamom pods","أرز بسمتي، ماء ورد، سكر، زبدة، هيل",vegetarian,نباتي,-1,-1,sweet,dessert,حلو,تحلية,Assam,North East
+Prawn malai curry,روبيان مالاي بالكاري,"Coconut milk, prawns, garlic, turmeric, sugar","حليب جوز الهند، روبيان، ثوم، كركم، سكر",non vegetarian,غير نباتي,15,50,spicy,main course,بهارات,طبق رئيسي,West Bengal,East
+Red Rice,رز أحمر,"Red pepper, red onion, butter, watercress, olive oil","فلفل أحمر، بصل أحمر، زبدة، جرجير، زيت زيتون",vegetarian,نباتي,-1,-1,-1,main course,,طبق رئيسي,-1,-1
+Shukto,شكتو,"Green beans, bitter gourd, ridge gourd, banana, brinjal","الفاصوليا الخضراء، القرع المر، قرع ريدج، الموز، برينجال",vegetarian,نباتي,10,20,spicy,main course,بهارات,طبق رئيسي,West Bengal,East
+Til Pitha,حتى بيثا,"Glutinous rice, black sesame seeds, gur","أرز دبق، بذور السمسم الأسود، جور",vegetarian,نباتي,5,30,sweet,dessert,حلو,تحلية,Assam,North East
+Bebinca,بيبينكا,"Coconut milk, egg yolks, clarified butter, all purpose flour","حليب جوز الهند، صفار البيض، الزبدة المصفاة، الدقيق لجميع الأغراض",vegetarian,نباتي,20,60,sweet,dessert,حلو,تحلية,Goa,West
+Shufta,شفتا,"Cottage cheese, dry dates, dried rose petals, pistachio, badam","جبنة قريش، تمر جاف، بتلات ورد مجفف، فستق، بدام",vegetarian,نباتي,-1,-1,sweet,dessert,حلو,تحلية,Jammu & Kashmir,North
+Mawa Bati,ماوا باتي,"Milk powder, dry fruits, arrowroot powder, all purpose flour","مسحوق الحليب، الفواكه الجافة، مسحوق الأروروت، دقيق لجميع الأغراض",vegetarian,نباتي,20,45,sweet,dessert,حلو,تحلية,Madhya Pradesh,Central
+Pinaca,بيناكا,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder","الأرز البني، بذور الشمر، جوز الهند المبشور، الفلفل الأسود، مسحوق الزنجبيل",vegetarian,نباتي,-1,-1,sweet,dessert,حلو,تحلية,Goa,West
