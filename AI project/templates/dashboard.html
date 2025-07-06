@@ -1,0 +1,17 @@
+<!DOCTYPE html><html><body>
+  <h2>مرحبا، {{ current_user.username }}</h2>
+  <a href="{{ url_for('auth.logout') }}">تسجيل الخروج</a>
+  <h3>أضف تنبؤ:</h3>
+  <form method="POST">
+    <input name="value" type="number" step="any" required placeholder="قيمة">
+    <button type="submit">أضف</button>
+  </form>
+  <h3>السجل:</h3>
+  <ul>
+    {% for p in predictions %}
+      <li>{{ p.timestamp.strftime("%Y-%m-%d %H:%M") }} — {{ p.value }}</li>
+    {% else %}
+      <li>لا توجد تنبؤات بعد.</li>
+    {% endfor %}
+  </ul>
+</body></html>

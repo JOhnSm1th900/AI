@@ -1,0 +1,12 @@
+<!DOCTYPE html><html><body>
+  <h2>{{ 'تسجيل' if 'register' in request.path else 'دخول' }}</h2>
+  <form method="POST">
+    <input name="username" placeholder="اسم المستخدم" required>
+    <input name="password" type="password" placeholder="كلمة المرور" required>
+    <button type="submit">{{ 'تسجيل' if 'register' in request.path else 'دخول' }}</button>
+  </form>
+  {% with msgs = get_flashed_messages() %}
+  {% for m in msgs %}<p>{{ m }}</p>{% endfor %}
+  {% endwith %}
+  <a href="{{ url_for('auth.register' if 'auth.login' in request.path else 'auth.login') }}">{{ 'سجل حساب' if 'login' in request.path else 'لديك حساب؟ سجل دخول' }}</a>
+</body></html>

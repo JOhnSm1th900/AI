@@ -1,0 +1,20 @@
+#connecting to my Dashboard database in dbgate
+
+version: '3'
+services:
+  dbgate:
+    image: dbgate/dbgate
+    ports: ['3306']
+    environment:
+      CONNECTIONS: mysql
+      LABEL_mysql: MySQL-Local
+      SERVER_mysql: 'localhost'
+      ENGINE_mysql: 'mysql@dbgate-plugin-mysql'
+      USER_mysql: 'root'
+      PASSWORD_mysql: 'madness'
+      DATABASE_mysql: dashboard
+      BASIC_AUTH: "1"
+      LOGIN: admin
+      PASSWORD: 'madness'
+    restart: unless-stopped
+

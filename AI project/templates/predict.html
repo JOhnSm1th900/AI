@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>نموذج إدخال بيانات التنبؤ</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+      }
+      .container {
+        background-color: #fff;
+        padding: 25px;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 500px;
+      }
+      h2 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+      }
+      .form-group {
+        margin-bottom: 15px;
+      }
+      label {
+        display: block;
+        margin-bottom: 5px;
+        color: #555;
+        font-weight: bold;
+      }
+      input[type='number'],
+      select {
+        width: calc(100% - 20px);
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      button {
+        width: 100%;
+        padding: 12px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+        margin-top: 20px;
+      }
+      button:hover {
+        background-color: #0056b3;
+      }
+      .note {
+        font-size: 0.9em;
+        color: #777;
+        margin-top: 10px;
+        text-align: center;
+      }
+      #response-message {
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 4px;
+        text-align: center;
+        font-weight: bold;
+        display: none;
+      }
+      #response-message.success {
+        background-color: #d4edda;
+        color: #155724;
+      }
+      #response-message.error {
+        background-color: #f8d7da;
+        color: #721c24;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>نموذج إدخال بيانات التنبؤ</h2>
+      <form id="predictionForm">
+        <div class="form-group">
+          <label for="age">العمر (age):</label>
+          <input type="number" id="age" name="age" step="1" required placeholder="أدخل العمر" />
+        </div>
+
+        <div class="form-group">
+          <label for="sex">الجنس (sex):</label>
+          <select id="sex" name="sex" required>
+            <option value="">اختر الجنس</option>
+            <option value="0">أنثى (0)</option>
+            <option value="1">ذكر (1)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="cp">نوع ألم الصدر (cp):</label>
+          <input type="number" id="cp" name="cp" step="1" required placeholder="أدخل قيمة 0-3" />
+        </div>
+
+        <div class="form-group">
+          <label for="trestbps">ضغط الدم وقت الراحة (trestbps):</label>
+          <input type="number" id="trestbps" name="trestbps" step="1" required placeholder="أدخل قيمة ضغط الدم" />
+        </div>
+
+        <div class="form-group">
+          <label for="chol">الكوليسترول في الدم (chol):</label>
+          <input type="number" id="chol" name="chol" step="1" required placeholder="أدخل قيمة الكوليسترول" />
+        </div>
+
+        <div class="form-group">
+          <label for="fbs">سكر الدم الصائم (fbs):</label>
+          <select id="fbs" name="fbs" required>
+            <option value="">اختر</option>
+            <option value="0">أقل من 120 (0)</option>
+            <option value="1">أكبر من 120 (1)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="restecg">نتائج تخطيط القلب الكهربائي وقت الراحة (restecg):</label>
+          <input type="number" id="restecg" name="restecg" step="1" required placeholder="أدخل قيمة 0-2" />
+        </div>
+
+        <div class="form-group">
+          <label for="thalch">أقصى معدل ضربات قلب (thalch):</label>
+          <input type="number" id="thalch" name="thalch" step="1" required placeholder="أدخل أقصى معدل ضربات" />
+        </div>
+
+        <div class="form-group">
+          <label for="exang">ذبحة صدرية بسبب الجهد (exang):</label>
+          <select id="exang" name="exang" required>
+            <option value="">اختر</option>
+            <option value="0">لا (0)</option>
+            <option value="1">نعم (1)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="oldpeak">انخفاض ST الناتج عن الجهد (oldpeak):</label>
+          <input type="number" id="oldpeak" name="oldpeak" step="any" required placeholder="أدخل قيمة عشرية" />
+        </div>
+
+        <div class="form-group">
+          <label for="slope">ميل ذروة مخطط ST للجهد (slope):</label>
+          <input type="number" id="slope" name="slope" step="1" required placeholder="أدخل قيمة 0-2" />
+        </div>
+
+        <div class="form-group">
+          <label for="ca">عدد الأوعية الدموية الرئيسية الملونة بصبغة (ca):</label>
+          <input type="number" id="ca" name="ca" step="1" required placeholder="أدخل قيمة 0-4" />
+        </div>
+
+        <div class="form-group">
+          <label for="thal">نتائج فحص الثاليوم (thal):</label>
+          <input type="number" id="thal" name="thal" step="1" required placeholder="أدخل قيمة 0-3" />
+        </div>
+
+        <button type="submit">إرسال للتنبؤ</button>
+      </form>
+      <div id="response-message"></div>
+      <p class="note">سيتم إرسال هذه البيانات إلى نقطة نهاية API الخاصة بالتنبؤ.</p>
+    </div>
+
+    <script>
+      document.getElementById('predictionForm').addEventListener('submit', async function (event) {
+        event.preventDefault()
+      
+        const form = event.target
+        const formData = new FormData(form)
+        const data = {}
+      
+        for (let [key, value] of formData.entries()) {
+          if (key === 'oldpeak') {
+            data[key] = parseFloat(value)
+          } else {
+            data[key] = parseFloat(value)
+          }
+        }
+      
+        const responseMessage = document.getElementById('response-message')
+        responseMessage.style.display = 'none'
+      
+        try {
+          const response = await fetch('/predict', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              Accept: 'application/json'
+            },
+            body: JSON.stringify(data)
+          })
+      
+          if (!response.ok) {
+            const errorData = await response.json()
+            throw new Error(errorData.message || 'حدث خطأ غير معروف')
+          }
+      
+          const result = await response.json()
+          console.log(result)
+      
+          let recommendationsHtml = result.recommendations.map((rec) => `<li>${rec}</li>`).join('')
+          responseMessage.innerHTML = `
+                          <p><strong>نتيجة التنبؤ:</strong> ${result.prediction}</p>
+                          <p><strong>الاحتمالات:</strong> ${result.probabilities.map((p) => (p * 100).toFixed(2) + '%').join(', ')}</p>
+                          <p><strong>التوصيات:</strong></p>
+                          <ul>${recommendationsHtml}</ul>
+                      `
+          responseMessage.className = 'success'
+          responseMessage.style.display = 'block'
+        } catch (error) {
+          console.error('Error:', error)
+          responseMessage.innerHTML = `<p>خطأ: ${error.message || 'لم نتمكن من معالجة طلبك.'}</p>`
+          responseMessage.className = 'error'
+          responseMessage.style.display = 'block'
+        }
+      })
+    </script>
+  </body>
+</html>
