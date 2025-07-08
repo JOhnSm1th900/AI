@@ -103,7 +103,6 @@ class Dashboard(Resource):
                     for p in Prediction.query.filter_by(user_id=current_user.id)]
         return jsonify(predictions=data)
 
-pr = Prediction(result=y, proba=probs, user=current_user._get_current_object())
 
 
 api.add_resource(Predict, '/predict')
