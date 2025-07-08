@@ -19,7 +19,8 @@ for feat in ['age','sex','cp','trestbps','chol','fbs','restecg','thalch','exang'
 
 numerical_features_to_scale = ['age', 'trestbps', 'chol', 'thalch', 'oldpeak']
 
-
+# تعريف الميزات الفئوية وقيمها الأصلية (كما كانت في بيانات التدريب قبل الترميز الأحادي)
+# يجب عليك التأكد من أن هذه التعيينات صحيحة بناءً على بيانات التدريب الأصلية وكيف تم التعامل معها.
 categorical_features_mapping = {
     'sex': {0: 'Female', 1: 'Male'},
     'cp': {0: 'asymptomatic', 1: 'atypical angina', 2: 'non-anginal', 3: 'typical angina'},
@@ -33,6 +34,7 @@ categorical_features_mapping = {
 categorical_feature_names = list(categorical_features_mapping.keys())
 
 
+# تعريف الأعمدة النهائية المتوقعة بعد الترميز الأحادي للميزات الفئوية فقط
 expected_scaled_categorical_columns = [
     'sex_Male',
     'cp_atypical angina', 'cp_non-anginal', 'cp_typical angina',
@@ -50,37 +52,50 @@ class Predict(Resource):
     def post(self):
         args = parser.parse_args()
         print(args)
-
+        
+        # فصل الميزات العددية عن الفئوية
         numerical_input_data = {feat: [args[feat]] for feat in numerical_features_to_scale}
         categorical_input_data = {feat: [args[feat]] for feat in categorical_feature_names}
 
         df_numerical = pd.DataFrame(numerical_input_data)
         df_categorical = pd.DataFrame(categorical_input_data)
-
+        
+        # تحويل المدخلات الفئوية العددية إلى قيمها الأصلية (سلاسل نصية/منطقية)
         df_for_dummies = df_categorical.copy()
         for col, mapping in categorical_features_mapping.items():
             if col in df_for_dummies.columns:
                 df_for_dummies[col] = df_for_dummies[col].map(mapping)
-
+                
+        # إجراء الترميز الأحادي (One-Hot Encoding) على الميزات الفئوية
         df_onehot = pd.get_dummies(df_for_dummies, columns=categorical_feature_names, drop_first=True)
-
+        
+        # التأكد من وجود جميع الأعمدة المرمزة أحاديا المتوقعة (15 عمود)
+        # وملء القيم المفقودة بـ 0 إذا لم تظهر فئة معينة في الإدخال
         df_onehot_aligned = pd.DataFrame(0, index=[0], columns=expected_scaled_categorical_columns)
         for col in df_onehot_aligned.columns:
             if col in df_onehot.columns:
                 df_onehot_aligned[col] = df_onehot[col].iloc[0]
-
+                
+        # تطبيق ال scaler على الميزات الفئوية المُرمزة أحاديًا (ال 15 ميزة)
+        # هذا هو المكان الذي نُصلح فيه الخطأ بجعل المدخل 15 ميزة كما يتوقع ال scaler
         Xs = scaler.transform(df_onehot_aligned)
 
-
+        # الحصول على Xdl (مخرجات مستخلص النموذج العميق)
         Xdl = extractor.predict(Xs)
         
 
-        Xs_categorical_scaled = scaler.transform(df_onehot_aligned) 
+        Xs_categorical_scaled = scaler.transform(df_onehot_aligned) # هذا هو Xs في الكود الأصلي
+        
+        # Xs ستكون ال 15 ميزة الفئوية المُوسعة والمُوسّعة (scaled)
 
         Xs = scaler.transform(df_onehot_aligned)
         
+        #الحصول على Xdl (مخرجات مستخلص النموذج العميق)
         Xdl = extractor.predict(Xs)
         
+        # دمج كل الميزات لنموذج Random Forest
+        # هنا يتم دمج Xs (الميزات الفئوية ال 15 الموسعة) مع Xdl
+        # الـ 5 ميزات الرقمية غير موجودة هنا في X.
         X = np.hstack([Xs, Xdl])
         
         y = int(rf.predict(X)[0]); probs = rf.predict_proba(X)[0].tolist()
