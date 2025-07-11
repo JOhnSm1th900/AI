@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+tensorflow
+flask
+flask_login
+werkzeug
+flask_sqlalchemy
+joblib
+flask_restful
+numpy
+scikit-learn
